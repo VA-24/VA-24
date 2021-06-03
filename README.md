@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VA-24
 - 👀 I’m interested in all things science
 - 🌱 I’m currently learning about physics and machine learning
-- 💞️ I’m collaborating with researches to model atmospheric data
 - 📫 You can reach me at va648314@gmail.com
 
 <!---
